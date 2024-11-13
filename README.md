@@ -1,4 +1,6 @@
-### This collection is set up to be easily cloned and symlinked using GNU Stow.
+# DOTFILES
+
+## This collection is set up to be easily cloned and symlinked using GNU Stow.
 
 
 - **.config/**: Contains configurations for various tools and environments such as nvim, kitty, hypr, - and more.
@@ -30,8 +32,6 @@ This will create symlinks for all the configurations in their respective locatio
 
 ## *Philosophy*
 
-The goal is to achieve an extreme minimal setup that works efficiently without extras like waybar, polybar, or a dedicated lock screen. I prefer using keybindings in Hyprland and logging in via Arch's tty1.
-
-Feel free to explore, tweak, and make these configurations your own!
+The goal is to achieve an extreme minimal setup that works efficiently without extras like waybar/polybar, wlogout or a dedicated lock screen. I prefer using keybindings in Hyprland and logging in via Arch's tty1.
 
 Tweak it as you wish! :)
