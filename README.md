@@ -1,5 +1,3 @@
-![Scrolling LED Message](./testing led.gif)
-
 # DOTFILES
 
 ## Set up to be easily cloned and symlinked using GNU Stow.
