@@ -1,11 +1,10 @@
 # DOTFILES
 
-## This collection is set up to be easily cloned and symlinked using GNU Stow.
-
+## Set up to be easily cloned and symlinked using GNU Stow.
 
 - **.config/**: Contains configurations for various tools and environments such as nvim, kitty, hypr, - and more.
 - **.tmux.conf**: Custom tmux configuration.
-- **.zshrc**: Configuration for zsh.
+
 
 
 ## How to Use
@@ -22,6 +21,7 @@ Run GNU Stow to symlink configurations:
 This will create symlinks for all the configurations in their respective locations, making them work out of the box (theoretically).
 
 
+
 ## Key Configurations
 
 - **Hyprland**: Minimal window manager setup with essential keybindings.
@@ -30,8 +30,9 @@ This will create symlinks for all the configurations in their respective locatio
 - **Wofi, Swappy, etc.**: Various utilities for a streamlined experience.
 
 
+
 ## *Philosophy*
 
-The goal is to achieve an extreme minimal setup that works efficiently without extras like waybar/polybar, wlogout or a dedicated lock screen. I prefer using keybindings in Hyprland and logging in via Arch's tty1.
+The goal is to achieve an extreme minimal and essential setup that works efficiently without extras like waybar/polybar, wlogout or a dedicated lock screen. It instead relies on using keybindings in Hyprland and logging in via Arch's tty1.
 
 Tweak it as you wish! :)
