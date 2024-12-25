@@ -11,7 +11,7 @@
 
 Clone the repository wherever you like:
 
-```$ git clone https://github.com/felixoakz/dotfiles.git && cd dotfiles```
+```$ git clone https://github.com/felixoakz/.files.git && cd .files```
 
 Run GNU Stow to symlink and apply configurations:
 
